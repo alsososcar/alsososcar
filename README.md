@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning TypeScript<br>🌱 I’m currently learning to code<br>⚡ Fun fact Sk Brann
+🔭 Webdev fullstack<br>🌱 I’m currently continuing learning to code<br>⚡ Fun fact Sk Brann<br> Fagbrev - Meget godt bestått 😃
 
 
 ## 🌐 Socials:
